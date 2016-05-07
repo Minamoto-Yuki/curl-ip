@@ -1,1 +1,3 @@
-<?PHP echo phpinfo(); ?>
+<?PHP
+print_r($_SERVER);
+?>
