@@ -1,1 +1,1 @@
-<?PHP echo php_info(); ?>
+<?PHP echo phpinfo(); ?>
